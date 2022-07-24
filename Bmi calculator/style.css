@@ -1,0 +1,51 @@
+body {
+    font-size: larger;
+    padding: 0;
+    margin: 0px;
+}
+#body {
+    font-size: 30px;
+    padding: 10px;
+    margin: 300px;
+    background-color: blue;
+}
+form{
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20px;
+    background-color: rgb(252, 246, 168);
+}
+fieldset{
+    display: inline-block;
+    text-align: right;
+    border: none;
+    
+}
+fieldset input{
+    text-align: center;
+    float: right;
+    margin-left: 15px;
+    height: 20px;
+    width: 150px;
+    border: gray 2px solid;
+}
+.container{
+    padding-top: 0;
+    margin-bottom:0;
+}
+.container h4{
+    float: left;
+    margin: 0;
+    padding: 0;
+    color: honeydew;
+}
+.container nav{
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+button{
+    margin:0;
+    padding: 0;
+}
+
